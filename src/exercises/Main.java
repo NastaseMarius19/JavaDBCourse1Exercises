@@ -9,7 +9,10 @@ public class Main {
 //        matrixSumAndProduct.printSum(firstMatrix,secondMatrix);
 //        matrixSumAndProduct.printProd(firstMatrix,secondMatrix);
 
-        TypeCasting typeCasting = new TypeCasting();
-        typeCasting.main_undercover();
+//        TypeCasting typeCasting = new TypeCasting();
+//        typeCasting.main_undercover();
+
+        Operators operators = new Operators();
+        operators.mainUndercoverX2();
     }
 }
